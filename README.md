@@ -37,12 +37,7 @@ data-quality-checker/
 ├── data/
 │   └── sample_employees.xlsx
 │
-├── examples/
-│   └── sample_report.xlsx
-│
 ├── reports/
-│
-├── screenshots/
 │
 ├── src/
 │   ├── main.py
@@ -146,12 +141,6 @@ Invalid birth date
 Salary must be greater than 0
 ```
 
-A sample generated report is available in:
-
-```text
-examples/sample_report.xlsx
-```
-
 ## Privacy
 
 The sample dataset contains synthetic data created solely for demonstration purposes. No real personal or confidential information is included.
@@ -165,6 +154,3 @@ The sample dataset contains synthetic data created solely for demonstration purp
 - Database integration
 - Automated validation summary charts
 
-## Report Preview
-
-![Data Quality Report](screenshots/report_summary.png)
